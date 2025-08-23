@@ -1,19 +1,19 @@
 🧠 Python Logic Practice
 
-This repository contains beginner to intermediate Python problems focusing on logic building and fundamental concepts. Perfect for coding practice, interview prep, and strengthening programming confidence.
+This repository contains beginner to intermediate Python problems that focus on logic building and fundamental programming concepts. Ideal for coding practice, interview preparation, and building programming confidence.
 
 📂 Folder Structure
-Folder	Contents
-Basics/	Number-based logic problems (prime, factorial, sum of digits, etc.)
-Strings/	String manipulation problems (palindromes, reversing, counting characters, duplicates)
-Patterns/	Pattern printing with nested loops (stars, numbers, pyramids, diamonds)
-Arrays/	Array-based problems (sum, max, min, two-pointer, etc.)
-Loops/	Problems primarily using loops and iteration
-Functions/	Recursion and function-based logic problems
-Mixed/	Problems combining multiple concepts/topics
+Folder	Description
+Basics/	Number-based logic problems (prime numbers, factorials, sum of digits, leap year checks, etc.)
+Strings/	String manipulation problems (palindrome checks, reversing, counting vowels, removing duplicates, etc.)
+Patterns/	Pattern printing problems using nested loops (stars, numbers, pyramids, diamonds)
+Arrays/	Array-based problems (sum, max/min, two-pointer problems, comparisons)
+Loops/	Problems primarily solved using loops and iteration logic
+Functions/	Recursion and function-based problems
+Mixed/	Problems combining multiple concepts (arrays + strings, loops + recursion, etc.)
 🔍 What You’ll Find Here
 
-🚀 Simple to intermediate Python programs
+✅ Simple to intermediate Python programs
 
 🔁 Usage of if, else, for, while, and functions
 
@@ -21,11 +21,10 @@ Mixed/	Problems combining multiple concepts/topics
 
 🔷 Pattern printing problems (stars, numbers, pyramids, diamonds)
 
-📌 Problems suitable for HackerRank/LeetCode practice
+💻 Suitable for HackerRank/LeetCode practice and interview preparation
 
 ✅ Examples of Problems
-
-Basics/
+Basics
 
 Check even or odd
 
@@ -37,7 +36,7 @@ Sum of digits
 
 Leap year check
 
-Strings/
+Strings
 
 Reverse a string
 
@@ -47,7 +46,7 @@ Count vowels
 
 Remove duplicates
 
-Patterns/
+Patterns
 
 Right triangle
 
@@ -55,7 +54,7 @@ Pyramid numbers
 
 Diamond star pattern
 
-Arrays/
+Arrays
 
 Sum of array elements
 
@@ -63,13 +62,13 @@ Maximum and minimum in array
 
 Compare arrays (e.g., Compare the Triplets)
 
-Loops/
+Loops
 
 Simple counting problems
 
 Loop-based calculations
 
-Functions/
+Functions
 
 Factorial using recursion
 
@@ -77,19 +76,19 @@ Fibonacci sequence
 
 Recursive string manipulations
 
-Mixed/
+Mixed
 
 Problems combining arrays, strings, loops, or recursion
 
 💡 How to Run
 
-Run any .py file using:
+Run any .py file using the terminal/command line:
 
 python filename.py
 
 📌 Contribution & Updates
 
-New problems are added regularly from HackerRank and other coding platforms
+New problems will be added regularly from HackerRank and other coding platforms
 
 Each problem includes:
 
@@ -97,14 +96,8 @@ Short description
 
 Topics covered
 
-Approach
+Approach/logic
 
-Complexity
+Time & space complexity
 
 Optional link to the original problem
----
-
-## 💡 How to Run
-Run any `.py` file using:
-```bash
-python filename.py
